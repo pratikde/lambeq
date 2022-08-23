@@ -9,3 +9,5 @@ Github Id for Pratik De- @pratikde,Rania- @RaniaSouissi2004
 Name of the Pitch Presenter on Demo Day-Pratik De 
 
 Name of the Challenge- Quantum Natural Language Processing with lambeq--by Quantinuum
+
+Solution Present in QIgnite.ipynb
